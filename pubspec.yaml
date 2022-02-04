@@ -1,0 +1,38 @@
+name: nkt
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+   
+    
+    
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:          
+    sdk: flutter              
+  test: ^1.14.4  
+
+
+   
+
+firebase_core: ^0.5.2
+firebase_auth: ^0.18.3
+cloud_firestore: ^0.14.3
+font_awesome_flutter: ^8.10.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - web/icons/Icon-192.png
+    - web/icons/Icon-512.png
+
+

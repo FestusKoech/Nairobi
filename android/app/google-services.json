@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450666579602",
+    "project_id": "nairobihighway",
+    "storage_bucket": "nairobihighway.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450666579602:android:137b3753ce647f42d2084b",
+        "android_client_info": {
+          "package_name": "com.example.nkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450666579602-n01boqlgm6d1k82533a5n0861ufdr040.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWo2b-2LoixAOK0jPLTPa8bmNHjOSur6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450666579602-n01boqlgm6d1k82533a5n0861ufdr040.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
